@@ -1,7 +1,7 @@
 ### [ Admin Interface ]
-![Diagram](UserDashboardscreenshot.jpg)
+![Diagram](docs/screenshots/UserDashboard.jpg)
 ### [ Member Interface ]
-![Diagram](MemberDashboardscreenshot.jpg)
+![Diagram](docs/screenshots/MemberDashboard.jpg)
 
 # BookForge - Command Line Program
 
