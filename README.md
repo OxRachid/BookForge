@@ -3,7 +3,7 @@
 ### [ Member Interface ]
 ![Diagram](MemberDashboardscreenshot.jpg)
 
-# Library Management System - Command Line Program
+# BookForge - Command Line Program
 
 Welcome to my Library Management System my first serious dive into C++ system programming!
 This project is a command-line based application designed to manage library operations such as book management, member management, transactions, and user management. It is built using C++ and utilizes a Makefile for compilation and execution.
@@ -84,11 +84,7 @@ If you are using Windows, you may need to replace system("clear") with system("c
 ### Installation
 1. Clone the repo:
     ```bash
-    git clone https://github.com/OxRachid/LibraryManagementSystem.github
-    ```
-2. Navigate to the folder:
-    ```bash
-    cd LibraryManagementSystem
+    git clone https://github.com/OxRachid/BookForge.git && cd BookForge
     ```
 3. Build the project:
    ```bash
