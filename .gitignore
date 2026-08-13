@@ -1,2 +1,2 @@
-Output_Dir/
-Next_Mission.txt
+build/
+*.o
