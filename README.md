@@ -84,25 +84,9 @@ If you are using Windows, you may need to replace system("clear") with system("c
 ### Installation
 1. Clone the repo:
     ```bash
-    git clone https://github.com/OxRachid/BookForge.git && cd BookForge
+    git clone https://github.com/OxRachid/BookForge.git
     ```
-3. Build the project:
-   ```bash
-   make
-   ```
-   (This compiles all .cpp files, links them into Output_Dir/MyProgramRun, and copies .txt data files.)
-4. Run it:
-   ```bash
-   ./Output_Dir/MyProgramRun  # Linux/Mac
-   Output_Dir\MyProgramRun.exe  # Windows
-   ```
-   Or use `make Run` to run in one go!
 
-- Clean Up:
-   To remove built files
-   ```bash
-   make clear
-   ```
 ## Acknowledgments
   - Dr. Mohammed Abu-Hahdoud's courses for teaching me C++.
   - You, for checking out my first system!
