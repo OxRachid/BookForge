@@ -1,7 +1,7 @@
-#include "../../headers/Screens/clsScreen.h"
-#include "../../headers/Core/global.h"
-#include "../../headers/Lib/Colors.h"
-#include "../../headers/Lib/clsDate.h"
+#include "Screens/clsScreen.h"
+#include "Core/global.h"
+#include "Lib/Colors.h"
+#include "Lib/clsDate.h"
 #include <cstddef>
 #include <cstdlib>
 #include <iomanip>

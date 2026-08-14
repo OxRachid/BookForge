@@ -1,5 +1,5 @@
-#include "../../headers/Lib/clsInputValidate.h"
-#include "../../headers/Lib/Colors.h"
+#include "Lib/clsInputValidate.h"
+#include "Lib/Colors.h"
 #include <ctime>
 #include <iostream>
 #include <string>

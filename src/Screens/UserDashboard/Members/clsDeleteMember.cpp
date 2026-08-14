@@ -1,6 +1,6 @@
-#include "../../../../headers/Screens/UserDashboard/Members/clsDeleteMember.h"
-#include "../../../../headers/Core/clsMember.h"
-#include "../../../../headers/Lib/clsInputValidate.h"
+#include "Screens/UserDashboard/Members/clsDeleteMember.h"
+#include "Core/clsMember.h"
+#include "Lib/clsInputValidate.h"
 #include <iomanip>
 #include <iostream>
 #include <string>

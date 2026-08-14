@@ -1,9 +1,9 @@
-#include "../../../../headers/Screens/MemberDashboard/MemberOperations/clsCancelRequest.h"
-#include "../../../../headers/Core/clsBook.h"
-#include "../../../../headers/Core/clsMember.h"
-#include "../../../../headers/Core/clsTransaction.h"
-#include "../../../../headers/Core/global.h"
-#include "../../../../headers/Lib/clsInputValidate.h"
+#include "Screens/MemberDashboard/MemberOperations/clsCancelRequest.h"
+#include "Core/clsBook.h"
+#include "Core/clsMember.h"
+#include "Core/clsTransaction.h"
+#include "Core/global.h"
+#include "Lib/clsInputValidate.h"
 #include <iomanip>
 #include <iostream>
 #include <string>

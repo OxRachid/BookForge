@@ -1,5 +1,5 @@
-#include "../../../../headers/Screens/UserDashboard/Users/clsListUsers.h"
-#include "../../../../headers/Core/clsUser.h"
+#include "Screens/UserDashboard/Users/clsListUsers.h"
+#include "Core/clsUser.h"
 #include <iomanip>
 #include <iostream>
 #include <string>

@@ -1,7 +1,7 @@
-#include "../../headers/Core/clsTransaction.h"
-#include "../../headers/Lib/clsString.h"
-#include "../../headers/Lib/clsUtil.h"
-#include "../../headers/Lib/constants.h"
+#include "Core/clsTransaction.h"
+#include "Lib/clsString.h"
+#include "Lib/clsUtil.h"
+#include "Lib/constants.h"
 #include <complex.h>
 #include <fstream>
 #include <string>

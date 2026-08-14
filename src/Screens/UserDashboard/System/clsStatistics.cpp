@@ -1,6 +1,6 @@
-#include "../../../../headers/Screens/UserDashboard/System/clsStatistics.h"
-#include "../../../../headers/Core/clsBook.h"
-#include "../../../../headers/Core/clsMember.h"
+#include "Screens/UserDashboard/System/clsStatistics.h"
+#include "Core/clsBook.h"
+#include "Core/clsMember.h"
 #include <iomanip>
 #include <ios>
 #include <iostream>

@@ -1,6 +1,6 @@
-#include "../../../../headers/Screens/UserDashboard/Books/clsDeleteBook.h"
-#include "../../../../headers/Core/clsBook.h"
-#include "../../../../headers/Lib/clsInputValidate.h"
+#include "Screens/UserDashboard/Books/clsDeleteBook.h"
+#include "Core/clsBook.h"
+#include "Lib/clsInputValidate.h"
 #include <iomanip>
 #include <iostream>
 #include <string>

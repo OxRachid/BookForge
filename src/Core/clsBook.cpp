@@ -1,7 +1,7 @@
-#include "../../headers/Core/clsBook.h"
-#include "../../headers/Lib/clsString.h"
-#include "../../headers/Lib/clsUtil.h"
-#include "../../headers/Lib/constants.h"
+#include "Core/clsBook.h"
+#include "Lib/clsString.h"
+#include "Lib/clsUtil.h"
+#include "Lib/constants.h"
 #include <algorithm>
 #include <fstream>
 #include <iostream>

@@ -1,8 +1,8 @@
-#include "../../../../headers/Screens/UserDashboard/System/clsSystemManage.h"
-#include "../../../../headers/Lib/clsInputValidate.h"
-#include "../../../../headers/Screens/UserDashboard/System/clsStatistics.h"
-#include "../../../../headers/Screens/UserDashboard/System/clsUpdateSystem.h"
-#include "../../../../headers/Screens/UserDashboard/System/clsUserChangePass.h"
+#include "Screens/UserDashboard/System/clsSystemManage.h"
+#include "Lib/clsInputValidate.h"
+#include "Screens/UserDashboard/System/clsStatistics.h"
+#include "Screens/UserDashboard/System/clsUpdateSystem.h"
+#include "Screens/UserDashboard/System/clsUserChangePass.h"
 #include <asm-generic/errno.h>
 #include <iomanip>
 #include <iostream>

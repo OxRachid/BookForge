@@ -1,4 +1,4 @@
-#include "../../headers/Lib/clsPerson.h"
+#include "Lib/clsPerson.h"
 #include <iostream>
 #include <string>
 using namespace std;

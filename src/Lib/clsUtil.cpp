@@ -1,5 +1,5 @@
-#include "../../headers/Lib/clsUtil.h"
-#include "../../headers/Lib/clsDate.h"
+#include "Lib/clsUtil.h"
+#include "Lib/clsDate.h"
 #include <cstddef>
 #include <ctime>
 #include <iostream>

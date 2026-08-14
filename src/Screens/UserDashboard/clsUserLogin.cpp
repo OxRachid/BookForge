@@ -1,7 +1,7 @@
-#include "../../../headers/Screens/UserDashboard/clsUserLogin.h"
-#include "../../../headers/Core/global.h"
-#include "../../../headers/Lib/clsInputValidate.h"
-#include "../../../headers/Screens/UserDashboard/clsUserDashboard.h"
+#include "Screens/UserDashboard/clsUserLogin.h"
+#include "Core/global.h"
+#include "Lib/clsInputValidate.h"
+#include "Screens/UserDashboard/clsUserDashboard.h"
 #include <cstdlib>
 #include <iostream>
 using namespace std;

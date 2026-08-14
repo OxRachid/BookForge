@@ -1,7 +1,7 @@
-#include "../../../../headers/Screens/UserDashboard/Transactions/clsCheckRequests.h"
-#include "../../../../headers/Core/clsTransaction.h"
-#include "../../../../headers/Core/global.h"
-#include "../../../../headers/Lib/clsInputValidate.h"
+#include "Screens/UserDashboard/Transactions/clsCheckRequests.h"
+#include "Core/clsTransaction.h"
+#include "Core/global.h"
+#include "Lib/clsInputValidate.h"
 #include <iomanip>
 #include <iostream>
 #include <string>

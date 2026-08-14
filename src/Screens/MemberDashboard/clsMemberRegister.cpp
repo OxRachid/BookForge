@@ -1,6 +1,6 @@
-#include "../../../headers/Screens/MemberDashboard/clsMemberRegister.h"
-#include "../../../headers/Core/clsMember.h"
-#include "../../../headers/Lib/clsInputValidate.h"
+#include "Screens/MemberDashboard/clsMemberRegister.h"
+#include "Core/clsMember.h"
+#include "Lib/clsInputValidate.h"
 #include <cstdlib>
 #include <iostream>
 using namespace std;

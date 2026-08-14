@@ -1,2 +1,8 @@
+# CMake build directory
 build/
+
+# Compiled object files
 *.o
+
+# Executables
+*.exe

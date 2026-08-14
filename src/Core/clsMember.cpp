@@ -1,7 +1,7 @@
-#include "../../headers/Core/clsMember.h"
-#include "../../headers/Lib/clsString.h"
-#include "../../headers/Lib/clsUtil.h"
-#include "../../headers/Lib/constants.h"
+#include "Core/clsMember.h"
+#include "Lib/clsString.h"
+#include "Lib/clsUtil.h"
+#include "Lib/constants.h"
 #include <cctype>
 #include <fstream>
 #include <iostream>

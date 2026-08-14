@@ -1,8 +1,8 @@
-#include "../../../../headers/Screens/UserDashboard/System/clsUpdateSystem.h"
-#include "../../../../headers/Core/clsBook.h"
-#include "../../../../headers/Core/clsMember.h"
-#include "../../../../headers/Core/clsTransaction.h"
-#include "../../../../headers/Lib/clsInputValidate.h"
+#include "Screens/UserDashboard/System/clsUpdateSystem.h"
+#include "Core/clsBook.h"
+#include "Core/clsMember.h"
+#include "Core/clsTransaction.h"
+#include "Lib/clsInputValidate.h"
 #include <chrono>
 #include <iostream>
 #include <string>

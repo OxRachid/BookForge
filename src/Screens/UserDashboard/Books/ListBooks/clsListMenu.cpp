@@ -1,7 +1,7 @@
-#include "../../../../../headers/Screens/UserDashboard/Books/ListBooks/clsListMenu.h"
-#include "../../../../../headers/Lib/clsInputValidate.h"
-#include "../../../../../headers/Screens/UserDashboard/Books/ListBooks/clsAllBooksList.h"
-#include "../../../../../headers/Screens/UserDashboard/Books/ListBooks/clsAvailableList.h"
+#include "Screens/UserDashboard/Books/ListBooks/clsListMenu.h"
+#include "Lib/clsInputValidate.h"
+#include "Screens/UserDashboard/Books/ListBooks/clsAllBooksList.h"
+#include "Screens/UserDashboard/Books/ListBooks/clsAvailableList.h"
 #include <cstdlib>
 #include <iomanip>
 #include <iostream>

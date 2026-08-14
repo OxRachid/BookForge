@@ -1,8 +1,8 @@
-#include "../../../headers/Screens/MemberDashboard/clsMemberLogin.h"
-#include "../../../headers/Core/clsMember.h"
-#include "../../../headers/Core/global.h"
-#include "../../../headers/Lib/clsInputValidate.h"
-#include "../../../headers/Screens/MemberDashboard/clsMemberDashboard.h"
+#include "Screens/MemberDashboard/clsMemberLogin.h"
+#include "Core/clsMember.h"
+#include "Core/global.h"
+#include "Lib/clsInputValidate.h"
+#include "Screens/MemberDashboard/clsMemberDashboard.h"
 #include <cstdlib>
 #include <iostream>
 using namespace std;

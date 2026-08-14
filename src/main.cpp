@@ -1,4 +1,4 @@
-#include "../headers/Screens/clsWhoAreYou.h"
+#include "Screens/clsWhoAreYou.h"
 using namespace std;
 int main() {
     clsWhoAreYou::WhoAreYouScreen();

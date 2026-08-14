@@ -1,8 +1,8 @@
-#include "../../../../../headers/Screens/UserDashboard/Members/ListMembers/clsListMembersMenu.h"
-#include "../../../../../headers/Lib/clsInputValidate.h"
-#include "../../../../../headers/Screens/UserDashboard/Members/ListMembers/clsListAll.h"
-#include "../../../../../headers/Screens/UserDashboard/Members/ListMembers/clsListStudents.h"
-#include "../../../../../headers/Screens/UserDashboard/Members/ListMembers/clsListTeachers.h"
+#include "Screens/UserDashboard/Members/ListMembers/clsListMembersMenu.h"
+#include "Lib/clsInputValidate.h"
+#include "Screens/UserDashboard/Members/ListMembers/clsListAll.h"
+#include "Screens/UserDashboard/Members/ListMembers/clsListStudents.h"
+#include "Screens/UserDashboard/Members/ListMembers/clsListTeachers.h"
 #include <iomanip>
 #include <iostream>
 #include <string>

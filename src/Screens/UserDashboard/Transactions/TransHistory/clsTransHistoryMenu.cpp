@@ -1,10 +1,10 @@
-#include "../../../../../headers/Screens/UserDashboard/Transactions/TransHistory/clsTransHistoryMenu.h"
-#include "../../../../../headers/Lib/clsInputValidate.h"
-#include "../../../../../headers/Screens/UserDashboard/Transactions/TransHistory/clsBorrowedList.h"
-#include "../../../../../headers/Screens/UserDashboard/Transactions/TransHistory/clsCanceledList.h"
-#include "../../../../../headers/Screens/UserDashboard/Transactions/TransHistory/clsListAllTrans.h"
-#include "../../../../../headers/Screens/UserDashboard/Transactions/TransHistory/clsPendingList.h"
-#include "../../../../../headers/Screens/UserDashboard/Transactions/TransHistory/clsReturnedList.h"
+#include "Screens/UserDashboard/Transactions/TransHistory/clsTransHistoryMenu.h"
+#include "Lib/clsInputValidate.h"
+#include "Screens/UserDashboard/Transactions/TransHistory/clsBorrowedList.h"
+#include "Screens/UserDashboard/Transactions/TransHistory/clsCanceledList.h"
+#include "Screens/UserDashboard/Transactions/TransHistory/clsListAllTrans.h"
+#include "Screens/UserDashboard/Transactions/TransHistory/clsPendingList.h"
+#include "Screens/UserDashboard/Transactions/TransHistory/clsReturnedList.h"
 #include <cstdlib>
 #include <iomanip>
 #include <iostream>

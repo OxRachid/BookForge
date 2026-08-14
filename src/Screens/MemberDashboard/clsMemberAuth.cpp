@@ -1,7 +1,7 @@
-#include "../../../headers/Screens/MemberDashboard/clsMemberAuth.h"
-#include "../../../headers/Lib/clsInputValidate.h"
-#include "../../../headers/Screens/MemberDashboard/clsMemberLogin.h"
-#include "../../../headers/Screens/MemberDashboard/clsMemberRegister.h"
+#include "Screens/MemberDashboard/clsMemberAuth.h"
+#include "Lib/clsInputValidate.h"
+#include "Screens/MemberDashboard/clsMemberLogin.h"
+#include "Screens/MemberDashboard/clsMemberRegister.h"
 #include <iomanip>
 #include <iostream>
 using namespace std;

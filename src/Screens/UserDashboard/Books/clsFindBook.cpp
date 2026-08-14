@@ -1,6 +1,6 @@
-#include "../../../../headers/Screens/UserDashboard/Books/clsFindBook.h"
-#include "../../../../headers/Core/clsBook.h"
-#include "../../../../headers/Lib/clsInputValidate.h"
+#include "Screens/UserDashboard/Books/clsFindBook.h"
+#include "Core/clsBook.h"
+#include "Lib/clsInputValidate.h"
 #include <iomanip>
 #include <iostream>
 #include <linux/limits.h>

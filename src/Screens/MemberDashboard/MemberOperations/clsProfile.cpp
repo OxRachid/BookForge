@@ -1,5 +1,5 @@
-#include "../../../../headers/Screens/MemberDashboard/MemberOperations/clsProfile.h"
-#include "../../../../headers/Core/global.h"
+#include "Screens/MemberDashboard/MemberOperations/clsProfile.h"
+#include "Core/global.h"
 #include <cstdlib>
 #include <iomanip>
 #include <iostream>

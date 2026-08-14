@@ -1,4 +1,4 @@
-#include "../../headers/Lib/Colors.h"
+#include "Lib/Colors.h"
 
 // Basic Colors
 string Colors::GetBlack() {

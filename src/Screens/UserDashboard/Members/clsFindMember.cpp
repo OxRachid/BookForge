@@ -1,6 +1,6 @@
-#include "../../../../headers/Screens/UserDashboard/Members/clsFindMember.h"
-#include "../../../../headers/Core/clsMember.h"
-#include "../../../../headers/Lib/clsInputValidate.h"
+#include "Screens/UserDashboard/Members/clsFindMember.h"
+#include "Core/clsMember.h"
+#include "Lib/clsInputValidate.h"
 #include <iomanip>
 #include <iostream>
 #include <string>

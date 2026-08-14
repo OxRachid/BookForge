@@ -1,5 +1,5 @@
-#include "../../headers/Lib/clsDate.h"
-#include "../../headers/Lib/clsString.h"
+#include "Lib/clsDate.h"
+#include "Lib/clsString.h"
 #include <asm-generic/siginfo.h>
 #include <ctime>
 #include <iomanip>

@@ -1,4 +1,4 @@
-#include "../../headers/Lib/clsString.h"
+#include "Lib/clsString.h"
 #include <__config>
 #include <cctype>
 #include <cstddef>

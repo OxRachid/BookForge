@@ -1,5 +1,5 @@
-#include "../../../../../headers/Screens/UserDashboard/Members/ListMembers/clsListAll.h"
-#include "../../../../../headers/Core/clsMember.h"
+#include "Screens/UserDashboard/Members/ListMembers/clsListAll.h"
+#include "Core/clsMember.h"
 #include <iomanip>
 #include <iostream>
 #include <string>

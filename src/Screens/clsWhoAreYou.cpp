@@ -1,7 +1,7 @@
-#include "../../headers/Screens/clsWhoAreYou.h"
-#include "../../headers/Lib/clsInputValidate.h"
-#include "../../headers/Screens/MemberDashboard/clsMemberAuth.h"
-#include "../../headers/Screens/UserDashboard/clsUserLogin.h"
+#include "Screens/clsWhoAreYou.h"
+#include "Lib/clsInputValidate.h"
+#include "Screens/MemberDashboard/clsMemberAuth.h"
+#include "Screens/UserDashboard/clsUserLogin.h"
 #include <cstdlib>
 #include <iomanip>
 #include <iostream>

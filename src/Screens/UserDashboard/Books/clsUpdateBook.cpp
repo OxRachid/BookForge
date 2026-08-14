@@ -1,5 +1,5 @@
-#include "../../../../headers/Screens/UserDashboard/Books/clsUpdateBook.h"
-#include "../../../../headers/Lib/clsInputValidate.h"
+#include "Screens/UserDashboard/Books/clsUpdateBook.h"
+#include "Lib/clsInputValidate.h"
 #include <iomanip>
 #include <iostream>
 #include <string>

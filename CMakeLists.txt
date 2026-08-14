@@ -5,20 +5,22 @@ project(BookForge
     LANGUAGES CXX
 )
 
+set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
+
 set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 set(CMAKE_CXX_EXTENSIONS OFF)
 
-file(GLOB_RECURSE PROJECT_SOURCES
+file(GLOB_RECURSE BOOKFORGE_SOURCES
     CONFIGURE_DEPENDS
     "${CMAKE_CURRENT_SOURCE_DIR}/src/*.cpp"
 )
 
 add_executable(BookForge
-    ${PROJECT_SOURCES}
+    ${BOOKFORGE_SOURCES}
 )
 
 target_include_directories(BookForge
     PRIVATE
-        "${CMAKE_CURRENT_SOURCE_DIR}/headers"
+        "${CMAKE_CURRENT_SOURCE_DIR}/include"
 )

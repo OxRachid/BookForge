@@ -1,6 +1,6 @@
-#include "../../../../headers/Screens/MemberDashboard/MemberOperations/clsMemberChangePass.h"
-#include "../../../../headers/Core/global.h"
-#include "../../../../headers/Lib/clsInputValidate.h"
+#include "Screens/MemberDashboard/MemberOperations/clsMemberChangePass.h"
+#include "Core/global.h"
+#include "Lib/clsInputValidate.h"
 #include <iostream>
 #include <string>
 using namespace std;

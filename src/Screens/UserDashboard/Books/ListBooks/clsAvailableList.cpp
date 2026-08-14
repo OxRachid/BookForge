@@ -1,5 +1,5 @@
-#include "../../../../../headers/Screens/UserDashboard/Books/ListBooks/clsAvailableList.h"
-#include "../../../../../headers/Core/clsBook.h"
+#include "Screens/UserDashboard/Books/ListBooks/clsAvailableList.h"
+#include "Core/clsBook.h"
 #include <iomanip>
 #include <iostream>
 #include <string>
