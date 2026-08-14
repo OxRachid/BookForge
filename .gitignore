@@ -6,3 +6,9 @@ build/
 
 # Executables
 *.exe
+
+# Compilation database
+compile_commands.json
+
+# Clangd
+.cache/
